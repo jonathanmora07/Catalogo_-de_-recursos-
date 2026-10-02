@@ -1,0 +1,1 @@
+- Se incorporó documentación adicional en docs/.
